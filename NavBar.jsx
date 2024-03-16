@@ -57,7 +57,7 @@ export default function Navbar(props) {
                 <ListItemIcon>
                         <BorderColorIcon/>
                 </ListItemIcon>
-                <ListItemText primary={"Create"} />
+                <ListItemText primary={"Contact"} />
                 </ListItemButton>
             </ListItem>
 
